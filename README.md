@@ -19,4 +19,7 @@ It can access electronic health records and gather relevant patient data through
 The idea of the robot is inspired by realizing the amount of time doctors & nurses waste to get into rooms to know the current state of the patient. Instead, the doctor can ask our nurse to go to a specific room to scan patient’s QR code and send it to the Doctor via Wi-Fi. Each patient’s room will contain a QR code, containing each patient’s information and health updates that will be detected and scanned by the robot, it will follow its path to reach that room. After, it returns to its original position waiting for the next doctor request.
 In order to make it as user-friendly as possible, we created a design that is suitable for its purpose, small, compact, free of sharp edges and exposed wires to be as safe as possible & light in weight, In addition, it has the sensors it needs to detect and avoid obstacles.
 
+# NOTE 
+  A comprehensive PDF detailing all pertinent information regarding the project is available.
+
 
