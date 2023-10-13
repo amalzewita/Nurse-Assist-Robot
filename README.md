@@ -3,7 +3,9 @@
 - Project: `[Nurse Assist Robot]`
 
 - Authors: `[Amal Amr]`, `[Yomna Kahlid]`, `[Mahmoud Shaarawy]`, `[Ahmed Hesham]`, `[Meriam Ehab]`
-- Documentation: []
+
+# Documents Link
+You can access all of the data and materials for the project at this [Link](https://drive.google.com/drive/folders/1g93nZXTusTNHiyK64e-qg0xdOEsTUyYk?usp=sharing).
 
 # INTRODUCTION
 
@@ -21,6 +23,6 @@ The idea of the robot is inspired by realizing the amount of time doctors & nurs
 In order to make it as user-friendly as possible, we created a design that is suitable for its purpose, small, compact, free of sharp edges and exposed wires to be as safe as possible & light in weight, In addition, it has the sensors it needs to detect and avoid obstacles.
 
 # NOTE 
-  A comprehensive PDF detailing all pertinent information regarding the project is available.
-
+  - A comprehensive PDF detailing all pertinent information regarding the project is available.
+  - The video simulation from VREP can be accessed via the provided link.
 
