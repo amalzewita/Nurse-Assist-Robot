@@ -17,5 +17,5 @@ In order to make it as user-friendly as possible, we created a design that is su
 
 Project: 'Nurse Assist Robot'
 Authors: 'Amal Amr', 'Yomna Kahlid', 'Mahmoud Shaarawy', 'Ahmed Hesham', 'Meriam Ehab'
-
+ /joint_states 
 
