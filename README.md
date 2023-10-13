@@ -1,13 +1,13 @@
-# INTRODUCTION
-
-The project concept involves an initial product design phase, where the needs of various users are analyzed, and a specific need is targeted. Subsequently, the product is assessed from a business perspective, and a business model is developed.
-The creation of physical system models and the application of control schemes for the development of control systems will occur within the VREP Simulation environment. Physical models will initially be crafted using SOLIDWORKS or Inventor software, and later imported into the simulation environment. We will then engage in the actual construction of the robot by manufacturing its various components, exploring different manufacturing techniques, integrating purchased parts, and testing software modules in real-life situations.
-
 # Project Information
 
 - Project: `[Nurse Assist Robot]`
 
 - Authors: `[Amal Amr]`, `[Yomna Kahlid]`, `[Mahmoud Shaarawy]`, `[Ahmed Hesham]`, `[Meriam Ehab]`
+
+# INTRODUCTION
+
+The project concept involves an initial product design phase, where the needs of various users are analyzed, and a specific need is targeted. Subsequently, the product is assessed from a business perspective, and a business model is developed.
+The creation of physical system models and the application of control schemes for the development of control systems will occur within the VREP Simulation environment. Physical models will initially be crafted using SOLIDWORKS or Inventor software, and later imported into the simulation environment. We will then engage in the actual construction of the robot by manufacturing its various components, exploring different manufacturing techniques, integrating purchased parts, and testing software modules in real-life situations.
 
 # FUNCTIONALITY
 
