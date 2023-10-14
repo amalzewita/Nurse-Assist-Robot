@@ -1,5 +1,9 @@
 # Project Information
 
+- Project: `[Nurse Assist Robot]`
+
+- Authors: `[Amal Amr]`, `[Yomna Kahlid]`, `[Mahmoud Shaarawy]`, `[Ahmed Hesham]`, `[Meriam Ehab]`
+
 # Table of Contents
 
 1. [Project Information](#project-information)
@@ -10,10 +14,6 @@
 4. [Functionality](#functionality)
 5. [Project Description](#project-description)
 6. [Important Note](#important-note)
-
-- Project: `[Nurse Assist Robot]`
-
-- Authors: `[Amal Amr]`, `[Yomna Kahlid]`, `[Mahmoud Shaarawy]`, `[Ahmed Hesham]`, `[Meriam Ehab]`
 
 # Documents Link
 You can access all of the data and materials for the project at this [Link](https://drive.google.com/drive/folders/1g93nZXTusTNHiyK64e-qg0xdOEsTUyYk?usp=sharing).
