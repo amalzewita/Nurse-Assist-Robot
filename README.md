@@ -34,5 +34,5 @@ The idea of the robot is inspired by realizing the amount of time doctors & nurs
 In order to make it as user-friendly as possible, we created a design that is suitable for its purpose, small, compact, free of sharp edges and exposed wires to be as safe as possible & light in weight, In addition, it has the sensors it needs to detect and avoid obstacles.
 
 # IMPORTANT NOTE 
-  - A comprehensive PDF called `[Report Design]` detailing all pertinent information regarding the project is available.
+  - A comprehensive PDF named `[Report Design]` detailing all pertinent information regarding the project is available.
   - The video simulation from VREP can be accessed via the provided link.
