@@ -1,5 +1,16 @@
 # Project Information
 
+# Table of Contents
+
+1. [Project Information](#project-information)
+   - [Project Details](#project-details)
+   - [Authors](#authors)
+2. [Documents Link](#documents-link)
+3. [Introduction](#introduction)
+4. [Functionality](#functionality)
+5. [Project Description](#project-description)
+6. [Important Note](#important-note)
+
 - Project: `[Nurse Assist Robot]`
 
 - Authors: `[Amal Amr]`, `[Yomna Kahlid]`, `[Mahmoud Shaarawy]`, `[Ahmed Hesham]`, `[Meriam Ehab]`
@@ -25,4 +36,3 @@ In order to make it as user-friendly as possible, we created a design that is su
 # IMPORTANT NOTE 
   - A comprehensive PDF called `[Report Design]` detailing all pertinent information regarding the project is available.
   - The video simulation from VREP can be accessed via the provided link.
-
